@@ -5,3 +5,9 @@
 weather information based on user input.
 ○ Key Concepts: The useState hook, useEffect hook for API calls,
 managing side effects, creating custom hooks.
+
+
+2. Recipe Finder App
+○ Description: Create an app to search for and display recipes.
+○ Key Concepts: Single Page Application overview, configuring React
+Router, creating router for navigation, passing parameters to rou
